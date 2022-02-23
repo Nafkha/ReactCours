@@ -1,0 +1,25 @@
+img{
+    width: 150px;
+    display: block;
+    border-radius: 50%;
+    
+    
+}
+img:hover{
+    width: 175px;
+}
+h1{
+    display: block;
+    font-family: 'Roboto', sans-serif;;
+    font-weight: 700;
+    font-size: 2.5rem;
+
+}
+ul li{
+    display: block;
+    text-decoration: none;
+    font-family:'Roboto Condensed', sans-serif;
+    font-weight: 1000;
+    font-size: 1.5rem;
+    
+}

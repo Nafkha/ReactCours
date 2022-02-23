@@ -1,0 +1,12 @@
+.Card{
+    border: rgba(204, 188, 188, 0.418) solid 1px;
+    border-radius: 15px;
+    width: 339px;
+    height: 331px;
+
+
+   
+}
+.Card img{
+    border-radius: 15px;
+}
